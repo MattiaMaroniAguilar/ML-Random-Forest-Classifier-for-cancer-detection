@@ -1,4 +1,10 @@
 # Machine Learning Random Forest Cancer Prediction Model
+## Theoretical Foundation (What Makes Random Forest Powerful)
+
+Ensemble Learning: Each model doesn't rely on a single decision tree, it creates a "forest" of 100 trees (based on your code) that each vote on the classification
+Bagging (Bootstrap Aggregating): Each tree trains on a random subset of your data, preventing overfitting
+Feature Randomness: Each tree considers only a random subset of features at each split, ensuring diversity
+Majority Voting: The final prediction is what most trees agree on, this makes it robust against individual tree errors
 
 ## Model Information
 - Type: Random Forest Classifier
