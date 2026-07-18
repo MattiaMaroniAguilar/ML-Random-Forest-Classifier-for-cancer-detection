@@ -1,4 +1,4 @@
-# Cancer Prediction Model
+# Machine Learning Random Forest Cancer Prediction Model
 
 ## Model Information
 - Type: Random Forest Classifier
