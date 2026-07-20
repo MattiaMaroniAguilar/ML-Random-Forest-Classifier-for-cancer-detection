@@ -1,5 +1,5 @@
 # Machine Learning Prediction: A Random Forest Classification Model Applied to Healthcare
-
+![Alt text](/RFC_image.jpeg)
 ## The Clinical Challenge
 Breast cancer is the most frequently diagnosed cancer in women globally. Because early intervention can improve survival rates to over 90%, developing rapid, highly accurate early detection systems is a critical medical priority. The ideal initial screening tool must be highly sensitive prioritizing a near zero false negative rate (maximizing recall) to ensure that no potential malignancies are missed during the first layer of detection.
 
